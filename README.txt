@@ -1,5 +1,7 @@
 10 March 2023
 
+Description: The objective of this project was to construct a program which organized numerical values like a stack, only it corresponds to the values given as heights. The program output should be the viewpoint of the view of the speaker, which should have the largest inputted value in the column as the last number in each row.
+
 All running files: SpeakerView.cpp, SpeakerView.h, TStack.h, MonoStack.h, input.txt, SeeingMain.cpp
 
 Line needed to run: g++ *.cpp -o a.exe; ./a.exe Input.txt
